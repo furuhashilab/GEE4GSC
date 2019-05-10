@@ -1,7 +1,7 @@
 # GEE4GSC
 Google Earth Engine 活用法メモ
 
-![59984801_877784289241530_7900335055271100416_o](https://user-images.githubusercontent.com/416977/57515585-f5801a00-734d-11e9-90f3-542dbd355944.jpg)
+![gee_minisummit2019tokyo](https://user-images.githubusercontent.com/416977/57515739-4abc2b80-734e-11e9-9918-be35a1586854.jpg)
 
 
 ## Google Earth Engine Mini Summit 2019 Tokyo メモ
